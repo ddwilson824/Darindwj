@@ -1,0 +1,21 @@
+@charset "utf-8";
+body h3 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    float: none;
+}
+body h1 {
+    font-style: normal;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: left;
+    float: left;
+}
+
+body {
+    background-image: url(welcome.jpg);
+    font-weight: bold;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: left;
+}
